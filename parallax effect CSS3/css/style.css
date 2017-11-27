@@ -1,0 +1,49 @@
+body
+{
+	font-family: 'Tangerine', cursive;
+	margin: 0;
+	padding:0;
+}
+
+.style1
+{
+	background-image:  url(../img/1.jpg);
+	-webkit-background-size:cover;
+	background-size:cover;
+	display: table;
+	background-attachment: fixed;
+	height: 100vh;
+	width: 100%;
+}
+
+.style2
+{
+	background-image:  url(../img/2.jpg);
+	-webkit-background-size:cover;
+	background-size:cover;
+	display: table;
+	background-attachment: fixed;
+	height: 100vh;
+	width: 100%;
+}
+
+.style3
+{
+	background-image:  url(../img/3.jpg);
+	-webkit-background-size:cover;
+	background-size:cover;
+	display: table;
+	background-attachment: fixed;
+	height: 100vh;
+	width: 100%;
+}
+
+h2
+{
+	margin:0;
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+	font-size: 100px;
+	color: #ffffff;
+}
